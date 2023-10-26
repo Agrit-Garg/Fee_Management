@@ -1,0 +1,19 @@
+#title
+{
+    background-image: url(images/back.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+#about
+{
+    background-color: #FFC107;
+    height: 40vh;
+}
+.mylinkbut{
+    text-decoration: none;
+    color: #FFC107;
+
+}
+.mylinkbut:hover{
+    color: black;
+}
